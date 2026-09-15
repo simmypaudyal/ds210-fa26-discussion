@@ -8,8 +8,11 @@ cargo run
 
 ## Crew name
 
--Crew ABCD
+the DS crew
 
 ## Members
-
+- Jeff Li
 -Simran
+
+
+
