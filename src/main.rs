@@ -17,7 +17,8 @@ fn main() {
     println!("  Andrew Phillips");
 
     println!(" -  Jeff Li");
-
+    
+    println!("  - Zichen Lin");
 
     println!();
     println!("Motto: {}", MOTTO);
