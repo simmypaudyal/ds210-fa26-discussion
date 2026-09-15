@@ -7,9 +7,9 @@ cargo run
 ```
 
 ## Crew name
-
+the DS crew
 _not chosen yet_
 
 ## Members
-
+- Jeff Li
 - _nobody has signed on yet_
